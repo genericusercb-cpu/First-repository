@@ -1,4 +1,4 @@
-# C.Bauer Security Expert
+# C.Bauer Security Expert 
 >Modules 1–8 are inspired by the Google Cybersecurity Professional Certificate.
 Additional projects and certifications are in progress.
 
